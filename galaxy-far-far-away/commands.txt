@@ -1,0 +1,10 @@
+1. Create a directory called death_star, and make the following files inside of it: darth_vader.txt, princess_leia.txt, storm_trooper.txt
+    - mkdir death_star
+    - cd death_star
+    - touch darth_vader.txt princess_leia.txt storm_trooper.txt
+
+2. In galaxy-far-far-away, make a directory named tatooine and create the following files in it: luke.txt, ben_kenobi.txt
+    - cd galaxy-far-far-away 
+    - mkdir tatooine
+    - cd tatooine
+    - touch luke.txt, ben_kenobi.txt
